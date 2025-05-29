@@ -1,0 +1,34 @@
+2025-05-24 21:26:10 | INFO | root | test_case_login_page.py:21 | *******test verication of title is successfull******
+2025-05-24 21:26:16 | INFO | root | test_case_login_page.py:34 | *******test verication of valid login is successfull******
+2025-05-24 21:26:26 | INFO | root | test_case_login_page.py:58 | *******test verication of invalid credentials is successfull******
+2025-05-24 21:45:38 | INFO | root | test_case_login_page.py:21 | *******test verication of title is successfull******
+2025-05-24 21:45:46 | INFO | root | test_case_login_page.py:34 | *******test verication of valid login is successfull******
+2025-05-24 21:45:55 | INFO | root | test_case_login_page.py:58 | *******test verication of invalid credentials is successfull******
+2025-05-24 21:47:43 | WARNING | selenium.webdriver.common.selenium_manager | selenium_manager.py:138 | There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_136_WINDOWS)); using driver found in the cache
+2025-05-24 21:47:43 | WARNING | selenium.webdriver.common.selenium_manager | selenium_manager.py:138 | Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+2025-05-24 21:47:44 | INFO | root | test_case_login_page.py:21 | *******test verication of title is successfull******
+2025-05-24 21:47:46 | WARNING | selenium.webdriver.common.selenium_manager | selenium_manager.py:138 | There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_136_WINDOWS)); using driver found in the cache
+2025-05-24 21:47:49 | INFO | root | test_case_login_page.py:34 | *******test verication of valid login is successfull******
+2025-05-24 21:47:51 | WARNING | selenium.webdriver.common.selenium_manager | selenium_manager.py:138 | There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_136_WINDOWS)); using driver found in the cache
+2025-05-24 21:47:55 | INFO | root | test_case_login_page.py:58 | *******test verication of invalid credentials is successfull******
+2025-05-24 21:50:18 | INFO | root | test_case_login_page.py:21 | *******test verication of title is successfull******
+2025-05-24 21:50:26 | INFO | root | test_case_login_page.py:34 | *******test verication of valid login is successfull******
+2025-05-24 21:50:40 | INFO | root | test_case_login_page.py:58 | *******test verication of invalid credentials is successfull******
+2025-05-25 12:31:42 | INFO | root | test_case_login_page.py:21 | *******test verication of title is successfull******
+2025-05-25 12:31:48 | INFO | root | test_case_login_page.py:34 | *******test verication of valid login is successfull******
+2025-05-25 12:31:58 | INFO | root | test_case_login_page.py:58 | *******test verication of invalid credentials is successfull******
+2025-05-25 12:38:47 | INFO | root | test_case_login_page.py:21 | *******test verication of title is successfull******
+2025-05-25 12:38:53 | INFO | root | test_case_login_page.py:34 | *******test verication of valid login is successfull******
+2025-05-25 12:39:02 | INFO | root | test_case_login_page.py:58 | *******test verication of invalid credentials is successfull******
+2025-05-29 21:31:49 | INFO | root | test_login_datadriven.py:22 | *******test verication of title is successfull******
+2025-05-29 21:31:57 | INFO | root | test_login_datadriven.py:35 | *******test verication of valid login is successfull******
+2025-05-29 21:33:40 | INFO | root | test_login_datadriven.py:22 | *******test verication of title is successfull******
+2025-05-29 21:33:47 | INFO | root | test_login_datadriven.py:35 | *******test verication of valid login is successfull******
+2025-05-29 21:40:34 | INFO | root | test_case_login_page.py:22 | *******test verication of title is successfull******
+2025-05-29 21:40:42 | INFO | root | test_case_login_page.py:62 | *******test verication of invalid credentials is successfull******
+2025-05-29 21:40:52 | INFO | root | test_login_datadriven.py:22 | *******test verication of title is successfull******
+2025-05-29 21:41:00 | INFO | root | test_login_datadriven.py:37 | *******test verication of valid login is successfull******
+2025-05-29 21:51:07 | INFO | root | test_case_login_page.py:22 | *******test verication of title is successfull******
+2025-05-29 21:51:16 | INFO | root | test_case_login_page.py:62 | *******test verication of invalid credentials is successfull******
+2025-05-29 21:51:33 | INFO | root | test_login_datadriven.py:22 | *******test verication of title is successfull******
+2025-05-29 21:51:45 | INFO | root | test_login_datadriven.py:37 | *******test verication of valid login is successfull******
